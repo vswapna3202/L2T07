@@ -1,0 +1,19 @@
+Compulsary Task 1
+-----------------
+1. Which industries saw the most growth?
+
+Consumer Products & Services in industries saw the most growth as indicated by the blue bar at more than 300K at 306,312 to be exact. 
+Computer Hardware in industries saw the least growth at 11,632. Attached bar chart shows the general trend of which industries are on higher, middle
+or lower growth range.
+
+2. Do companies that have been on this list longer have a higher chance of appearing again in this list?
+When we compare the number of Years On List and count of companies we find that the highest number of Companies are when Yrs On List is 1(around 1868) as the Years on List increases to 2 we find the number of Companies decreases ( around 1022) and finally by the time we come to the last data of Yrs on List which is 12 we just have 1 company. This indicates as Yrs On List increases the chances of companies appearing again in this list decreases. Attached bar chart clearly shows the decreasing trend of number of companies as Yrs on List increases.
+
+3. Does the number of workers in the company affect the growth of the company?
+I don't think the number of workers affect the growth of a comapny. I've used a packed bubble chart to analyse workers and growth rates. The general trend I noticed in this chart is the number of workers did not have an imapct on growth rate. Company with less number of workers do have average growth more than companies with more number of workers. I can see in my bubble that a company with 227 workers has more growth indicated by the bigger bubble(growth 39, 967) than company with 1106 workers indicated by a medium growth (5,221). Similar instances can be seen where a company has 5603 workers (growth 1,120) whereas company with 264 workers has growth(16, 192). This clearly shows number of workers does not determine the growth of a company.
+
+4. Which state can you find most of the IT companies in?
+The most IT companies are found in California as indicated by the bar chart. California highlighted in blue has 85 IT Services and associated Computer Hardware companies which is highest IT companies compared to any other state in the US. This is followed by Virginia which is at 68. The attached bar chart shows this visually.
+
+5. Which cities have seen the most growth?
+Maynard has seen the highest growth of more than 20,690 followed by El Segundo at 15,728, Palmetto 12,896, Fairhope 11,375. All of these cities are above 10000 growth range. The attached treemap shows the top cities with highest growth rates.
